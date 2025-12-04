@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1080785141130",
+    "project_id": "smart-feeder-remote",
+    "storage_bucket": "smart-feeder-remote.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080785141130:android:6731ef715f6293c49d9c73",
+        "android_client_info": {
+          "package_name": "com.niw.smart_feeder_remote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM9xBgATIbsrrleVeaCe52aVSYxEG7BpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
