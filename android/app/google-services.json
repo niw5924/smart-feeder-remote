@@ -12,7 +12,20 @@
           "package_name": "com.niw.smart_feeder_remote"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "1080785141130-j3co0m3t8u8ov0n5drkj79omdbkmn75l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.niw.smart_feeder_remote",
+            "certificate_hash": "1021b568596e48a2b05e3e52b95359ee18c9d06c"
+          }
+        },
+        {
+          "client_id": "1080785141130-kldbne8s78559cmormhg51bn0b1hnpum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAM9xBgATIbsrrleVeaCe52aVSYxEG7BpA"
@@ -20,7 +33,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080785141130-kldbne8s78559cmormhg51bn0b1hnpum.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1080785141130-nenquqoh7mnohbgfdm7irl415jgn6pge.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.niw.smartFeederRemote"
+              }
+            }
+          ]
         }
       }
     }
